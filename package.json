@@ -12,7 +12,9 @@
     "js": "dist/kernel.js",
     "minjs": "dist/kernel.min.js",
     "category": "Shared libraries",
-    "priority": -10
+    "priority": -10,
+    "cellExportRequired": true,
+    "figureExportRequired": true
   },
   "repository": {
     "type": "git",
